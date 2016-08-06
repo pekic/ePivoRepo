@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "ePivo"
+  },
+  "hostingPlanName": {
+    "value": "ePivoServicePlan"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "bfa62af6-8b9b-417a-8e63-00d8a8efff30"
+  },
+  "resourceGroup": {
+    "value": "TestResourceGroup1"
+  }
+}
